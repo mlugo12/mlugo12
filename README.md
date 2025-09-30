@@ -23,7 +23,7 @@ Interactive dashboard for exploring datasets, with charts built using Python and
 ### [📰 Hacker News Scraper](https://github.com/yourusername/hacker-news-scraper)  
 Automated data extraction from Hacker News using Playwright, with CSV export and console visualization.  
 
-### [📚 Smart Survelliance System](https://github.com/yourusername/tech-tutoring)  
+### [📚 Smart Survelliance System](https://github.com/mlugo12/CS-Capstone-Project-8020Fit)  
 Trained a Deep-Learning model to accurately depicit suspicious movement using Conv3D.
 
 ---
