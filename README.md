@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Miguel Lugo  
 
-🎓 Master’s Degree in Computer Science | Concentration in Data Analysis & Machine Learning
+🎓 Master’s Degree in Computer Science | Concentration in Full Stack Development & Machine Learning
 
 💻 Passionate about transforming data into actionable insights  
 
@@ -9,11 +9,11 @@
 ---
 
 ## 🔧 Skills & Tools  
-- **Languages:** Python, C++, SQL, JavaScript  
+- **Languages:** Python, SQL, JavaScript  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Web & Automation:** JavaScript, Playwright, Node.js  
-- **Other:** Git/GitHub, Docker, Linux, Bash  
+- **Databases:** MySQL, MongoDB  
+- **Web & Automation:** JavaScript, Node.js 
+- **Other:** Git/GitHub, Docker, Linux, React  
 
 ---
 
