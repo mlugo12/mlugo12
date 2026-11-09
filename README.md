@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Miguel Lugo  
 
 🎓 Master’s Degree in Computer Science | Concentration in Data Analysis & Machine Learning
+
 💻 Passionate about transforming data into actionable insights  
+
 📚 Experienced technology tutor, helping students understand coding and IT concepts  
 
 ---
