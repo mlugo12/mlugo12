@@ -11,7 +11,7 @@
 ## 🔧 Skills & Tools  
 - **Languages:** Python, SQL, JavaScript  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL,
 - **Web & Automation:** JavaScript, Node.js 
 - **Other:** Git/GitHub, Docker, Linux, React  
 
