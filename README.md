@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Miguel Lugo  
+# Hi, I’m Miguel Lugo  
 
 🎓 Master’s Degree in Computer Science | Concentration in Full Stack Development & Machine Learning
 
