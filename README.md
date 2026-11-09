@@ -19,14 +19,14 @@
 
 ## 📌 Featured Projects  
 
+### [📚 8020 Fit](https://github.com/mlugo12/CS-Capstone-Project-8020Fit)  
+Created a fitness webapp that takes users data and creates a tailored fitness and meal plan.
+
 ### [📊 Smart Surveillance System](https://github.com/mlugo12/Smart-Surveillance-System-Project)  
 Trained a Deep-Learning model to accurately depict suspicious movement using Conv3D.
 
 ### [📰 Hacker News Scraper](https://github.com/mlugo12/My-Projects/tree/main/Hacker_News_Scraper) 
 Automated data extraction from Hacker News using Playwright, with CSV export and console visualization.  
-
-### [📚 8020 Fit](https://github.com/mlugo12/CS-Capstone-Project-8020Fit)  
-Created a fitness webapp that takes users data and creates a tailored fitness and meal plan.
 
 ---
 
