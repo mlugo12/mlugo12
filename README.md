@@ -31,5 +31,5 @@ Created a fitness webapp that takes users data and creates a tailored fitness an
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn]((https://www.linkedin.com/in/miguel-lugo-main))  
+- [LinkedIn: ]((https://www.linkedin.com/in/miguel-lugo-main))  
 - 📧 Email: lugomiguel65@yahoo.com  
