@@ -7,15 +7,11 @@ Please take a look through my page!
 
 💻 Passionate about transforming data and software into something that benefits everyone 💻
 
----
-
 ## 🔧 Skills & Tools  
 - **Languages:** Python, SQL, JavaScript, Typescript, Styling
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn, Deep Learning Models
 - **Databases:** MySQL
 - **Other:** Git/GitHub, Docker, Linux, React  
-
----
 
 ## 📌 Featured Projects  
 
@@ -28,7 +24,11 @@ Trained a Deep-Learning model to accurately depict suspicious movement using Con
 ### [📰 Hacker News Scraper](https://github.com/mlugo12/My-Projects/tree/main/Hacker_News_Scraper) 
 Automated data extraction from Hacker News using Playwright, with CSV export and console visualization.  
 
----
+## Ongoing Projects
+
+### [:sunny: Global Weather](https://github.com/mlugo12/GlobalWeather)
+My own weather app built Typescript/React, Vite and a weather API 
 
 ## 🌐 More from me   
-- [LinkedIn](https://www.linkedin.com/in/miguel-lugo-main)  
+
+[LinkedIn](https://www.linkedin.com/in/miguel-lugo-main) [Kaggle](https://www.kaggle.com/miguellugo7/code)
