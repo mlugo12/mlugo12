@@ -1,7 +1,7 @@
 # Hello, I’m Miguel Alfredo Lugo  
 
 I've learned throughout my career that it's never too late to give it your all for the sake of your passion, which in my case, involves creating software to help others.
-Please take a look through my page!
+Please take a look through my [page!](https://mlugo12.github.io/mlugo.main/)
 
 🎓 Master’s Degree in Computer Science | Concentration in Full Stack Development & Machine Learning 🎓
 
