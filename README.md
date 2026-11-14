@@ -1,18 +1,18 @@
-# Hi, I’m Miguel Lugo  
+# Hello, I’m Miguel Alfredo Lugo  
 
-🎓 Master’s Degree in Computer Science | Concentration in Full Stack Development & Machine Learning
+I've learned throughout my career that it's never too late to give it your all for the sake of your passion, which in my case, involves creating software to help others.
+Please take a look through my page!
 
-💻 Passionate about transforming data into actionable insights  
+🎓 Master’s Degree in Computer Science | Concentration in Full Stack Development & Machine Learning 🎓
 
-📚 Experienced technology tutor, helping students understand coding and IT concepts  
+💻 Passionate about transforming data and software into something that benefits everyone 💻
 
 ---
 
 ## 🔧 Skills & Tools  
-- **Languages:** Python, SQL, JavaScript  
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** MySQL,
-- **Web & Automation:** JavaScript, Node.js 
+- **Languages:** Python, SQL, JavaScript, Typescript, Styling
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn, Deep Learning Models
+- **Databases:** MySQL
 - **Other:** Git/GitHub, Docker, Linux, React  
 
 ---
@@ -30,6 +30,5 @@ Automated data extraction from Hacker News using Playwright, with CSV export and
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 More from me   
 - [LinkedIn](https://www.linkedin.com/in/miguel-lugo-main)  
-- 📧 Email: lugomiguel65@yahoo.com  
